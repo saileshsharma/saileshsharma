@@ -1,17 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2022-07-04T08:15:32.054Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="jJtJcj_2QX0lqkbl-dnk" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-04T08:27:04.569Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="kJYq8bjWMwIfBIe6aWhL" version="20.0.1" type="github">
   <diagram id="hw4PP8DsaB0dxp-VdWet" name="Page-1">
     <mxGraphModel dx="981" dy="526" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="nq1_xlOWMeyLUE8sOnZ7-12" value="Indonesia Data Center" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="110" y="130" width="180" height="220" as="geometry" />
+          <mxGeometry x="10" y="120" width="240" height="230" as="geometry" />
         </mxCell>
         <mxCell id="nq1_xlOWMeyLUE8sOnZ7-9" value="CHUBB AZURE CLOUD" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="335" y="130" width="155" height="220" as="geometry" />
+          <mxGeometry x="280" y="120" width="210" height="230" as="geometry" />
         </mxCell>
         <mxCell id="nq1_xlOWMeyLUE8sOnZ7-2" value="CGISS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="370" y="170" width="90" height="50" as="geometry" />
+          <mxGeometry x="350" y="170" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="nq1_xlOWMeyLUE8sOnZ7-7" value="User Authentication" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nq1_xlOWMeyLUE8sOnZ7-4" target="nq1_xlOWMeyLUE8sOnZ7-2">
           <mxGeometry relative="1" as="geometry" />
@@ -23,7 +23,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nq1_xlOWMeyLUE8sOnZ7-5" value="CGISS&lt;br&gt;DB" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;verticalAlign=bottom;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="378.75" y="259" width="72.5" height="80" as="geometry" />
+          <mxGeometry x="358.75" y="259" width="72.5" height="80" as="geometry" />
         </mxCell>
         <mxCell id="nq1_xlOWMeyLUE8sOnZ7-8" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;ADBC2&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="180" y="150" width="60" height="30" as="geometry" />
@@ -38,22 +38,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nq1_xlOWMeyLUE8sOnZ7-13" value="" style="shape=actor;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="20" y="165" width="40" height="60" as="geometry" />
+          <mxGeometry x="20" y="200" width="40" height="70" as="geometry" />
         </mxCell>
         <mxCell id="nq1_xlOWMeyLUE8sOnZ7-14" value="Chubb" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="10" y="237" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="nq1_xlOWMeyLUE8sOnZ7-16" value="If Chubb Sariya data is stored on Chubb&amp;nbsp; Azure Cloud, then we don&#39;t need TPCR&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="90" y="60" width="460" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="nq1_xlOWMeyLUE8sOnZ7-17" value="After Data Migration" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="110" y="380" width="180" height="150" as="geometry" />
+          <mxGeometry x="10" y="380" width="240" height="150" as="geometry" />
         </mxCell>
         <mxCell id="nq1_xlOWMeyLUE8sOnZ7-18" value="Takaful One DB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="155" y="420" width="85" height="80" as="geometry" />
+          <mxGeometry x="135.44" y="430" width="85" height="80" as="geometry" />
         </mxCell>
         <mxCell id="nq1_xlOWMeyLUE8sOnZ7-19" value="" style="shape=cross;whiteSpace=wrap;html=1;rotation=-45;fillColor=#FF0000;" vertex="1" parent="1">
-          <mxGeometry x="157.5" y="420" width="80" height="80" as="geometry" />
+          <mxGeometry x="137.94" y="430" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
