@@ -1,14 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2022-07-04T11:02:18.257Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="W6q0sNcDVCKoFfgKhxtM" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-04T12:19:34.571Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="9oGS1Pi3fRaYVL9b70ZA" version="20.0.1" type="github">
   <diagram id="hw4PP8DsaB0dxp-VdWet" name="Page-1">
     <mxGraphModel dx="1831" dy="526" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="nq1_xlOWMeyLUE8sOnZ7-12" value="Indonesia Data Center" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1;fillColor=#fff2cc;strokeColor=#d6b656;dashed=1;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="nq1_xlOWMeyLUE8sOnZ7-12" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;font face=&quot;Georgia&quot;&gt;INDONESIA DATA CENTER&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1;fillColor=#fff2cc;strokeColor=#d6b656;dashed=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-90" y="120" width="240" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="nq1_xlOWMeyLUE8sOnZ7-9" value="CHUBB AZURE CLOUD" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;dashed=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="220" y="120" width="400" height="410" as="geometry" />
+        <mxCell id="nq1_xlOWMeyLUE8sOnZ7-9" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;font face=&quot;Georgia&quot;&gt;CHUBB AZURE CLOUD&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;dashed=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="220" y="120" width="390" height="410" as="geometry" />
         </mxCell>
         <mxCell id="nq1_xlOWMeyLUE8sOnZ7-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="1" source="nq1_xlOWMeyLUE8sOnZ7-2" target="nq1_xlOWMeyLUE8sOnZ7-22">
           <mxGeometry relative="1" as="geometry" />
@@ -55,7 +55,7 @@
         <mxCell id="nq1_xlOWMeyLUE8sOnZ7-14" value="Chubb" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-90" y="237" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="nq1_xlOWMeyLUE8sOnZ7-17" value="After Data Migration" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="nq1_xlOWMeyLUE8sOnZ7-17" value="&lt;font face=&quot;Georgia&quot;&gt;After Data Migration&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="-90" y="380" width="240" height="150" as="geometry" />
         </mxCell>
         <mxCell id="nq1_xlOWMeyLUE8sOnZ7-18" value="Takaful One DB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
