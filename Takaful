@@ -1,14 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2022-07-04T09:42:25.915Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="o1EHI8RSdb2A-buv92TT" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-04T11:01:42.000Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="uCqXj6JNjdknMuyQcQKw" version="20.0.1" type="github">
   <diagram id="hw4PP8DsaB0dxp-VdWet" name="Page-1">
     <mxGraphModel dx="1831" dy="526" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="nq1_xlOWMeyLUE8sOnZ7-12" value="Indonesia Data Center" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="nq1_xlOWMeyLUE8sOnZ7-12" value="Indonesia Data Center" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1;fillColor=#fff2cc;strokeColor=#d6b656;dashed=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-90" y="120" width="240" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="nq1_xlOWMeyLUE8sOnZ7-9" value="CHUBB AZURE CLOUD" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="190" y="120" width="450" height="410" as="geometry" />
+        <mxCell id="nq1_xlOWMeyLUE8sOnZ7-9" value="CHUBB AZURE CLOUD" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;dashed=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="220" y="120" width="400" height="410" as="geometry" />
         </mxCell>
         <mxCell id="nq1_xlOWMeyLUE8sOnZ7-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="1" source="nq1_xlOWMeyLUE8sOnZ7-2" target="nq1_xlOWMeyLUE8sOnZ7-22">
           <mxGeometry relative="1" as="geometry" />
