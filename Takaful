@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-05T08:50:48.044Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="Wa-dI0HI3Rkso7ly9YQw" version="20.0.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-07-05T09:15:26.648Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="xzDMzkvvLpfz5bR5aqfw" version="20.0.4" type="github" pages="2">
   <diagram id="hw4PP8DsaB0dxp-VdWet" name="Page-1">
     <mxGraphModel dx="2071" dy="644" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#F8FAFE" math="0" shadow="0">
       <root>
@@ -326,7 +326,7 @@
           <mxGeometry x="660" y="380" width="190" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Ks8rKKCDdB_SILhgM3cH-129" value="&lt;b style=&quot;text-align: center;&quot;&gt;namespace:&amp;nbsp;&lt;/b&gt;&lt;span style=&quot;font-weight: 400; text-align: center;&quot;&gt;chubb-indo-takaful&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fontStyle=1;verticalAlign=bottom;dashed=1;align=right;spacingRight=3;" vertex="1" parent="1">
-          <mxGeometry x="-80" y="490" width="318" height="360" as="geometry" />
+          <mxGeometry x="-80" y="490" width="318" height="370" as="geometry" />
         </mxCell>
         <mxCell id="Ks8rKKCDdB_SILhgM3cH-201" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-60" y="560" width="278" height="270" as="geometry" />
