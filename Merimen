@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-07T16:05:19.690Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="yz-IjSa4xtIqTIWAA2Pi" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-07T16:25:39.747Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="ymGH8ZC3JcAJqSBX7n9c" version="20.0.4" type="github">
   <diagram id="BaQqXj0KDidOqdho3_lg" name="Page-1">
     <mxGraphModel dx="1185" dy="588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -35,7 +35,7 @@
           <mxGeometry x="161.24" y="116.88" width="30.31" height="35" as="geometry" />
         </mxCell>
         <mxCell id="dZwck-aWURFXVLU4xG-E-29" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Thailand Chubb DC&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1;dashed=1;align=right;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;spacingRight=2;" vertex="1" parent="1">
-          <mxGeometry x="560" y="136.88" width="510" height="423.12" as="geometry" />
+          <mxGeometry x="560" y="136.88" width="630" height="423.12" as="geometry" />
         </mxCell>
         <mxCell id="dZwck-aWURFXVLU4xG-E-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="dZwck-aWURFXVLU4xG-E-30" target="dZwck-aWURFXVLU4xG-E-7">
           <mxGeometry relative="1" as="geometry" />
@@ -163,7 +163,7 @@
           <mxGeometry x="38.16" y="472" width="94.16" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dZwck-aWURFXVLU4xG-E-84" value="My Chubb" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=#4472C4;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="690.16" y="494" width="59.84" height="45" as="geometry" />
+          <mxGeometry x="670" y="494" width="59.84" height="45" as="geometry" />
         </mxCell>
         <mxCell id="dZwck-aWURFXVLU4xG-E-178" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;fontColor=#000000;startArrow=classic;startFill=1;strokeColor=#030405;" edge="1" parent="1" source="dZwck-aWURFXVLU4xG-E-94" target="dZwck-aWURFXVLU4xG-E-177">
           <mxGeometry relative="1" as="geometry" />
@@ -172,19 +172,19 @@
           <mxGeometry x="580" y="420" width="120" height="45" as="geometry" />
         </mxCell>
         <mxCell id="dZwck-aWURFXVLU4xG-E-95" value="Actuarial&lt;br&gt;DB" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fontSize=10;fillColor=#4472C4;fontColor=#FFFFFF;verticalAlign=bottom;" vertex="1" parent="1">
-          <mxGeometry x="910" y="487" width="60" height="60" as="geometry" />
+          <mxGeometry x="846" y="486" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dZwck-aWURFXVLU4xG-E-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;startArrow=none;startFill=0;strokeColor=#050505;" edge="1" parent="1" source="dZwck-aWURFXVLU4xG-E-96" target="dZwck-aWURFXVLU4xG-E-95">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dZwck-aWURFXVLU4xG-E-96" value="Text File&lt;br&gt;in SFTP Path" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;fontSize=10;fillColor=#4472C4;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="790" y="493" width="70" height="47" as="geometry" />
+          <mxGeometry x="746" y="492.5" width="70" height="47" as="geometry" />
         </mxCell>
         <mxCell id="dZwck-aWURFXVLU4xG-E-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;startArrow=none;startFill=0;strokeColor=#FF0198;" edge="1" parent="1" source="dZwck-aWURFXVLU4xG-E-7" target="dZwck-aWURFXVLU4xG-E-96">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="250" y="640" />
-              <mxPoint x="825" y="640" />
+              <mxPoint x="770" y="640" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -214,17 +214,12 @@
         <mxCell id="dZwck-aWURFXVLU4xG-E-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=10;startArrow=classic;startFill=1;strokeColor=#050505;" edge="1" parent="1" source="dZwck-aWURFXVLU4xG-E-106" target="dZwck-aWURFXVLU4xG-E-108">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dZwck-aWURFXVLU4xG-E-118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.015;entryY=0.908;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=10;startArrow=classic;startFill=1;strokeColor=#050505;" edge="1" parent="1" source="dZwck-aWURFXVLU4xG-E-106" target="dZwck-aWURFXVLU4xG-E-115">
+        <mxCell id="dZwck-aWURFXVLU4xG-E-200" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;fontColor=#FFFFFF;startArrow=classic;startFill=1;strokeColor=#030405;" edge="1" parent="1" source="dZwck-aWURFXVLU4xG-E-106">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1170" y="220" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1030" y="240" />
-              <mxPoint x="1030" y="439" />
+              <mxPoint x="1170" y="240" />
             </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="dZwck-aWURFXVLU4xG-E-120" value="Operation&lt;br&gt;(Client Access)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=10;rotation=270;" vertex="1" connectable="0" parent="dZwck-aWURFXVLU4xG-E-118">
-          <mxGeometry x="0.3819" y="1" relative="1" as="geometry">
-            <mxPoint y="-62" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dZwck-aWURFXVLU4xG-E-106" value="IIA" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=#4472C4;strokeColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
@@ -246,12 +241,6 @@
         </mxCell>
         <mxCell id="dZwck-aWURFXVLU4xG-E-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;startArrow=classic;startFill=1;strokeColor=#050505;" edge="1" parent="1" source="dZwck-aWURFXVLU4xG-E-60" target="dZwck-aWURFXVLU4xG-E-101">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="dZwck-aWURFXVLU4xG-E-115" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#FF3333;shape=mxgraph.azure.user;" vertex="1" parent="1">
-          <mxGeometry x="932.5" y="393.88" width="47.5" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="dZwck-aWURFXVLU4xG-E-116" value="Chubb Staff" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="876.84" y="393.88" width="94.16" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dZwck-aWURFXVLU4xG-E-65" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#9933FF;shape=mxgraph.azure.user;" vertex="1" parent="1">
           <mxGeometry x="571" y="487" width="47.5" height="50" as="geometry" />
@@ -426,6 +415,15 @@
         </mxCell>
         <mxCell id="dZwck-aWURFXVLU4xG-E-198" value="P" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;dashed=1;fontSize=11;fontColor=#FFFFFF;strokeColor=none;fillColor=#FF0000;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="630" y="970" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="dZwck-aWURFXVLU4xG-E-199" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1080" y="170" width="103.15999999999997" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="dZwck-aWURFXVLU4xG-E-115" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#FF3333;shape=mxgraph.azure.user;" vertex="1" parent="dZwck-aWURFXVLU4xG-E-199">
+          <mxGeometry x="55.65999999999997" width="47.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="dZwck-aWURFXVLU4xG-E-116" value="Chubb Staff" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=11;" vertex="1" parent="dZwck-aWURFXVLU4xG-E-199">
+          <mxGeometry width="94.16" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
