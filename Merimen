@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-07T12:18:08.793Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="csQNXcaHr2rLusbXrjzJ" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-07T12:23:34.310Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="w7xgkWJ104bSKSNcfTzm" version="20.0.4" type="github">
   <diagram id="BaQqXj0KDidOqdho3_lg" name="Page-1">
-    <mxGraphModel dx="2035" dy="588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -13,11 +13,11 @@
         <mxCell id="dZwck-aWURFXVLU4xG-E-5" value="" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1;strokeColor=default;dashed=1;align=right;spacingRight=3;" vertex="1" parent="1">
           <mxGeometry x="360" y="136.88" width="160" height="257" as="geometry" />
         </mxCell>
-        <mxCell id="dZwck-aWURFXVLU4xG-E-52" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Claims&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;" edge="1" parent="1" source="dZwck-aWURFXVLU4xG-E-7" target="dZwck-aWURFXVLU4xG-E-49">
+        <mxCell id="dZwck-aWURFXVLU4xG-E-75" value="Claims (No SMS)" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;startArrow=none;startFill=0;" edge="1" parent="1" source="dZwck-aWURFXVLU4xG-E-7">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="140" y="470" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="180" y="310" />
-              <mxPoint x="180" y="210" />
+              <mxPoint x="140" y="360" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -71,26 +71,23 @@
             <mxPoint x="13" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dZwck-aWURFXVLU4xG-E-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.007;entryY=0.418;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=none;startFill=0;" edge="1" parent="1" source="dZwck-aWURFXVLU4xG-E-44" target="dZwck-aWURFXVLU4xG-E-45">
+        <mxCell id="dZwck-aWURFXVLU4xG-E-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=10;startArrow=none;startFill=0;" edge="1" parent="1" source="dZwck-aWURFXVLU4xG-E-44" target="dZwck-aWURFXVLU4xG-E-45">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dZwck-aWURFXVLU4xG-E-44" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.user;" vertex="1" parent="1">
-          <mxGeometry x="10" y="305.51" width="42.27" height="44.49" as="geometry" />
+          <mxGeometry x="93.02499999999999" y="161.88" width="42.27" height="44.49" as="geometry" />
         </mxCell>
         <mxCell id="dZwck-aWURFXVLU4xG-E-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;" edge="1" parent="1" source="dZwck-aWURFXVLU4xG-E-45" target="dZwck-aWURFXVLU4xG-E-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dZwck-aWURFXVLU4xG-E-45" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.mobile_client;fillColor=#7F00FF;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="96" y="303.5" width="36.32" height="56.5" as="geometry" />
-        </mxCell>
         <mxCell id="dZwck-aWURFXVLU4xG-E-47" value="Merimen&lt;br&gt;Survey App" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="67.08" y="360" width="94.16" height="30" as="geometry" />
+          <mxGeometry x="67.08" y="319.76" width="94.16" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dZwck-aWURFXVLU4xG-E-49" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#FF3333;shape=mxgraph.azure.user;" vertex="1" parent="1">
-          <mxGeometry x="81.16" y="180" width="47.5" height="50" as="geometry" />
+          <mxGeometry x="113.74" y="475" width="47.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="dZwck-aWURFXVLU4xG-E-51" value="Surveyor" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-13" y="341.75" width="94.16" height="30" as="geometry" />
+          <mxGeometry x="33" y="166.13" width="94.16" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dZwck-aWURFXVLU4xG-E-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=10;startArrow=classic;startFill=1;" edge="1" parent="1" source="dZwck-aWURFXVLU4xG-E-7" target="dZwck-aWURFXVLU4xG-E-17">
           <mxGeometry relative="1" as="geometry">
@@ -127,14 +124,33 @@
         <mxCell id="dZwck-aWURFXVLU4xG-E-63" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.dataCenter;strokeColor=#5E5E5E;aspect=fixed;rounded=0;fontSize=10;fontColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="549.69" y="116.88" width="30.31" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="dZwck-aWURFXVLU4xG-E-65" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=#b85450;fillColor=#9933FF;shape=mxgraph.azure.user;" vertex="1" parent="1">
-          <mxGeometry x="610" y="465" width="47.5" height="50" as="geometry" />
+        <mxCell id="dZwck-aWURFXVLU4xG-E-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;startArrow=none;startFill=0;" edge="1" parent="1" source="dZwck-aWURFXVLU4xG-E-65" target="dZwck-aWURFXVLU4xG-E-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="600" y="600" />
+              <mxPoint x="270" y="600" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="dZwck-aWURFXVLU4xG-E-66" value="Claim&#39;s Staff" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="589.84" y="508" width="94.16" height="30" as="geometry" />
+        <mxCell id="dZwck-aWURFXVLU4xG-E-72" value="Register Claims&lt;br&gt;WS https" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=10;" vertex="1" connectable="0" parent="dZwck-aWURFXVLU4xG-E-71">
+          <mxGeometry x="-0.1379" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="dZwck-aWURFXVLU4xG-E-67" value="Customer" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="57.83" y="230" width="94.16" height="30" as="geometry" />
+          <mxGeometry x="53.919999999999995" y="482" width="94.16" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dZwck-aWURFXVLU4xG-E-45" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.mobile_client;fillColor=#7F00FF;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="96" y="258.89" width="36.32" height="56.5" as="geometry" />
+        </mxCell>
+        <mxCell id="dZwck-aWURFXVLU4xG-E-77" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="571" y="465" width="119.15999999999997" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="dZwck-aWURFXVLU4xG-E-65" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=#b85450;fillColor=#9933FF;shape=mxgraph.azure.user;" vertex="1" parent="dZwck-aWURFXVLU4xG-E-77">
+          <mxGeometry width="47.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="dZwck-aWURFXVLU4xG-E-66" value="Claim&#39;s Staff" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="dZwck-aWURFXVLU4xG-E-77">
+          <mxGeometry x="25" y="10" width="94.16" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
