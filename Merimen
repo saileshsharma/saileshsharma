@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-08T02:57:23.113Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="pZ0r4faRHkZ2vnxPGld0" version="20.0.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-07-08T02:58:55.579Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="GX2NldjbaG19QJCJRVN3" version="20.0.4" type="github" pages="3">
   <diagram id="BaQqXj0KDidOqdho3_lg" name="Page-1">
     <mxGraphModel dx="1185" dy="588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1190,18 +1190,6 @@
         <mxCell id="U6kHVQOC7onTKvfEUOg7-68" value="Text File&lt;br&gt;in SFTP Path" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;fontSize=10;fillColor=#4472C4;fontColor=#FFFFFF;" vertex="1" parent="U6kHVQOC7onTKvfEUOg7-66">
           <mxGeometry y="4.75" width="70" height="47" as="geometry" />
         </mxCell>
-        <mxCell id="U6kHVQOC7onTKvfEUOg7-69" value="" style="group" vertex="1" connectable="0" parent="U6kHVQOC7onTKvfEUOg7-1">
-          <mxGeometry x="1124.55" y="315.9000000000001" width="86.66999999999996" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="U6kHVQOC7onTKvfEUOg7-70" value="Text File" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;dashed=1;fontSize=10;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="U6kHVQOC7onTKvfEUOg7-69">
-          <mxGeometry width="66.67" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="U6kHVQOC7onTKvfEUOg7-71" value="Text File" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;dashed=1;fontSize=10;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="U6kHVQOC7onTKvfEUOg7-69">
-          <mxGeometry x="10" y="10" width="66.67" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="U6kHVQOC7onTKvfEUOg7-72" value="Text File" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;dashed=1;fontSize=10;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="U6kHVQOC7onTKvfEUOg7-69">
-          <mxGeometry x="20" y="20" width="66.67" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="U6kHVQOC7onTKvfEUOg7-73" value="" style="group" vertex="1" connectable="0" parent="U6kHVQOC7onTKvfEUOg7-1">
           <mxGeometry x="1130" y="450.5200000000001" width="86.67" height="60" as="geometry" />
         </mxCell>
@@ -1397,11 +1385,17 @@
         <mxCell id="-Gv9XS1TTiX1O76Lgae4-2" value="Chubb Staff" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="U6kHVQOC7onTKvfEUOg7-1">
           <mxGeometry x="1250" y="168" width="94.16" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-Gv9XS1TTiX1O76Lgae4-5" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#050505;" vertex="1" parent="U6kHVQOC7onTKvfEUOg7-1">
-          <mxGeometry x="1100" y="370" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="-Gv9XS1TTiX1O76Lgae4-6" value="Operation (Client Access)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontColor=#050505;fontStyle=1" vertex="1" parent="U6kHVQOC7onTKvfEUOg7-1">
           <mxGeometry x="1185" y="220" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="U6kHVQOC7onTKvfEUOg7-70" value="Text File" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;fontSize=10;fillColor=#4472C4;strokeColor=#000000;" vertex="1" parent="U6kHVQOC7onTKvfEUOg7-1">
+          <mxGeometry x="1124.55" y="315.9000000000001" width="66.67" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="U6kHVQOC7onTKvfEUOg7-71" value="Text File" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;fontSize=10;fillColor=#4472C4;strokeColor=#000000;" vertex="1" parent="U6kHVQOC7onTKvfEUOg7-1">
+          <mxGeometry x="1134.55" y="325.9000000000001" width="66.67" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="U6kHVQOC7onTKvfEUOg7-72" value="Text File" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;fontSize=10;fillColor=#4472C4;strokeColor=#000000;" vertex="1" parent="U6kHVQOC7onTKvfEUOg7-1">
+          <mxGeometry x="1144.55" y="335.9000000000001" width="66.67" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
