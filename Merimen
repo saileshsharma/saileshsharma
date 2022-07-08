@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-07T16:45:38.138Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="rdOsc2Aze3Cs4boAlNlW" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-08T00:35:16.838Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="uQcunpyAWtyI2SMo1qMB" version="20.0.4" type="github">
   <diagram id="BaQqXj0KDidOqdho3_lg" name="Page-1">
-    <mxGraphModel dx="1422" dy="705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="677" dy="336" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -220,7 +220,7 @@
           <mxGeometry x="47" y="157.88" width="94.16" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dZwck-aWURFXVLU4xG-E-121" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;COG&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1;dashed=1;align=right;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;spacingRight=2;" vertex="1" parent="1">
-          <mxGeometry x="378.46999999999997" y="734.6" width="420" height="370" as="geometry" />
+          <mxGeometry x="378.47" y="740" width="420" height="364.6" as="geometry" />
         </mxCell>
         <mxCell id="dZwck-aWURFXVLU4xG-E-123" value="COG SFTP" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=10;fillColor=#fff2cc;strokeColor=#d6b656;verticalAlign=top;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="398.47" y="764.6" width="120" height="210" as="geometry" />
@@ -471,6 +471,16 @@
         </mxCell>
         <mxCell id="dZwck-aWURFXVLU4xG-E-96" value="Text File&lt;br&gt;in SFTP Path" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;fontSize=10;fillColor=#4472C4;fontColor=#FFFFFF;" vertex="1" parent="dZwck-aWURFXVLU4xG-E-240">
           <mxGeometry y="4.75" width="70" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="dZwck-aWURFXVLU4xG-E-243" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;fontColor=#050505;startArrow=classic;startFill=1;strokeColor=#050505;" edge="1" parent="1" target="dZwck-aWURFXVLU4xG-E-126">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="990" y="250" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="1020" y="250" />
+              <mxPoint x="1020" y="830" />
+              <mxPoint x="622" y="830" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
