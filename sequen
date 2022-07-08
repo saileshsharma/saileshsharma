@@ -1,26 +1,29 @@
-<mxfile host="app.diagrams.net" modified="2022-07-08T07:37:21.263Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="Q0if_KbTluzfhD7DcN-C" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-08T07:44:33.134Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="NucyCjdgnCWAARtHfv36" version="20.0.4" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
     <mxGraphModel dx="2035" dy="635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="TnM7k6m4lpgiyrAIQDHh-29" value="&lt;b&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;REGISTER CLAIMS&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;verticalAlign=top;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-160" y="340" width="730" height="500" as="geometry" />
+        <mxCell id="TnM7k6m4lpgiyrAIQDHh-29" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;GET POLICY&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;verticalAlign=top;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-200" y="340" width="770" height="620" as="geometry" />
         </mxCell>
-        <mxCell id="TnM7k6m4lpgiyrAIQDHh-31" value="&lt;b&gt;&lt;font color=&quot;#00cc00&quot;&gt;SUCCESS&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;align=left;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="-50" y="440" width="600" height="240" as="geometry" />
+        <mxCell id="TnM7k6m4lpgiyrAIQDHh-34" value="&lt;b&gt;&lt;font color=&quot;#00cc00&quot;&gt;BLACKLISTED&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="690" width="620" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="TnM7k6m4lpgiyrAIQDHh-31" value="&lt;b&gt;&lt;font color=&quot;#00cc00&quot;&gt;NOT !BLACKLISTED&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="440" width="620" height="240" as="geometry" />
         </mxCell>
         <mxCell id="3nuBFxr9cyL0pnOWT2aG-1" value="Merimen" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="30" y="384" width="100" height="450" as="geometry" />
+          <mxGeometry x="30" y="384" width="100" height="726" as="geometry" />
         </mxCell>
         <mxCell id="3nuBFxr9cyL0pnOWT2aG-2" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="3nuBFxr9cyL0pnOWT2aG-1" vertex="1">
-          <mxGeometry x="45" y="70" width="7.22" height="260" as="geometry" />
+          <mxGeometry x="45" y="70" width="7.22" height="540" as="geometry" />
         </mxCell>
         <mxCell id="3nuBFxr9cyL0pnOWT2aG-5" value="APIM" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="166" y="384" width="100" height="450" as="geometry" />
+          <mxGeometry x="166" y="384" width="100" height="706" as="geometry" />
         </mxCell>
         <mxCell id="3nuBFxr9cyL0pnOWT2aG-6" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="3nuBFxr9cyL0pnOWT2aG-5" vertex="1">
-          <mxGeometry x="45" y="80" width="7.14" height="250" as="geometry" />
+          <mxGeometry x="45" y="80" width="7.14" height="550" as="geometry" />
         </mxCell>
         <mxCell id="TnM7k6m4lpgiyrAIQDHh-20" value="Get Policy Details" style="verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;shadow=0;strokeWidth=1;fontSize=10;" edge="1" parent="3nuBFxr9cyL0pnOWT2aG-5">
           <mxGeometry relative="1" as="geometry">
@@ -46,10 +49,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="TnM7k6m4lpgiyrAIQDHh-3" value="Public API" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="301" y="384" width="100" height="450" as="geometry" />
+          <mxGeometry x="301" y="384" width="100" height="746" as="geometry" />
         </mxCell>
         <mxCell id="TnM7k6m4lpgiyrAIQDHh-4" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="TnM7k6m4lpgiyrAIQDHh-3">
-          <mxGeometry x="45" y="80" width="7.35" height="250" as="geometry" />
+          <mxGeometry x="45" y="80" width="7.35" height="530" as="geometry" />
         </mxCell>
         <mxCell id="TnM7k6m4lpgiyrAIQDHh-21" value="Get Policy Details" style="verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;shadow=0;strokeWidth=1;fontSize=10;" edge="1" parent="TnM7k6m4lpgiyrAIQDHh-3">
           <mxGeometry relative="1" as="geometry">
@@ -66,12 +69,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="TnM7k6m4lpgiyrAIQDHh-8" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.user;container=1;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="-130.88" y="462" width="50" height="40" as="geometry">
+          <mxGeometry x="-160.88" y="454" width="50" height="40" as="geometry">
             <mxRectangle x="34.75" y="140" width="38" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TnM7k6m4lpgiyrAIQDHh-10" value="Chubb&#39;s Claim Staff" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-150" y="512" width="76.25" height="30" as="geometry" />
+          <mxGeometry x="-180" y="504" width="76.25" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TnM7k6m4lpgiyrAIQDHh-17" value="Return Access Token" style="verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;shadow=0;strokeWidth=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
@@ -92,10 +95,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="TnM7k6m4lpgiyrAIQDHh-24" value="Private API" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="437" y="384" width="100" height="450" as="geometry" />
+          <mxGeometry x="437" y="384" width="100" height="686" as="geometry" />
         </mxCell>
         <mxCell id="TnM7k6m4lpgiyrAIQDHh-25" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="TnM7k6m4lpgiyrAIQDHh-24">
-          <mxGeometry x="45" y="80" width="7.35" height="250" as="geometry" />
+          <mxGeometry x="45" y="80" width="7.35" height="520" as="geometry" />
         </mxCell>
         <mxCell id="TnM7k6m4lpgiyrAIQDHh-26" value="Check Blacklist" style="verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;shadow=0;strokeWidth=1;fontSize=10;" edge="1" parent="TnM7k6m4lpgiyrAIQDHh-24">
           <mxGeometry relative="1" as="geometry">
@@ -108,9 +111,6 @@
             <mxPoint x="-80" y="231.9999999999999" as="targetPoint" />
             <mxPoint x="45" y="232" as="sourcePoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="TnM7k6m4lpgiyrAIQDHh-32" value="&lt;b&gt;&lt;font color=&quot;#00cc00&quot;&gt;SUCCESS&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;align=left;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="-630" y="850" width="600" height="240" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
