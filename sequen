@@ -1,19 +1,19 @@
-<mxfile host="app.diagrams.net" modified="2022-07-08T07:26:12.085Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="DMMZSpLIgb1AD_i8iFHo" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-08T07:30:53.534Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="K0_WrjOZclXhj008C75I" version="20.0.4" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
-    <mxGraphModel dx="981" dy="526" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1185" dy="635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="3nuBFxr9cyL0pnOWT2aG-1" value="Merimen" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" parent="1" vertex="1">
+        <mxCell id="3nuBFxr9cyL0pnOWT2aG-1" value="Merimen" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="140" y="80" width="100" height="450" as="geometry" />
         </mxCell>
-        <mxCell id="3nuBFxr9cyL0pnOWT2aG-2" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" parent="3nuBFxr9cyL0pnOWT2aG-1" vertex="1">
+        <mxCell id="3nuBFxr9cyL0pnOWT2aG-2" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="3nuBFxr9cyL0pnOWT2aG-1" vertex="1">
           <mxGeometry x="45" y="70" width="10" height="360" as="geometry" />
         </mxCell>
-        <mxCell id="3nuBFxr9cyL0pnOWT2aG-5" value="APIM" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" parent="1" vertex="1">
+        <mxCell id="3nuBFxr9cyL0pnOWT2aG-5" value="APIM" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="274" y="80" width="100" height="450" as="geometry" />
         </mxCell>
-        <mxCell id="3nuBFxr9cyL0pnOWT2aG-6" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" parent="3nuBFxr9cyL0pnOWT2aG-5" vertex="1">
+        <mxCell id="3nuBFxr9cyL0pnOWT2aG-6" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="3nuBFxr9cyL0pnOWT2aG-5" vertex="1">
           <mxGeometry x="45" y="80" width="10" height="350" as="geometry" />
         </mxCell>
         <mxCell id="TnM7k6m4lpgiyrAIQDHh-20" value="Get Policy Details" style="verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;shadow=0;strokeWidth=1;fontSize=10;" edge="1" parent="3nuBFxr9cyL0pnOWT2aG-5">
@@ -24,14 +24,14 @@
         </mxCell>
         <mxCell id="TnM7k6m4lpgiyrAIQDHh-23" value="Return Policy Details" style="verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;shadow=0;strokeWidth=1;" edge="1" parent="3nuBFxr9cyL0pnOWT2aG-5">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-80" y="239.9999999999999" as="targetPoint" />
-            <mxPoint x="45" y="240" as="sourcePoint" />
+            <mxPoint x="-80" y="274.9999999999999" as="targetPoint" />
+            <mxPoint x="45" y="275" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3nuBFxr9cyL0pnOWT2aG-7" value="Return Access Token" style="verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;shadow=0;strokeWidth=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="195" y="192.9999999999999" as="targetPoint" />
-            <mxPoint x="320" y="193" as="sourcePoint" />
+            <mxPoint x="195" y="185.9999999999999" as="targetPoint" />
+            <mxPoint x="320" y="186" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3nuBFxr9cyL0pnOWT2aG-8" value="Request OAuth 2.0" style="verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;shadow=0;strokeWidth=1;fontSize=10;" parent="1" source="3nuBFxr9cyL0pnOWT2aG-2" target="3nuBFxr9cyL0pnOWT2aG-6" edge="1">
@@ -39,10 +39,10 @@
             <mxPoint x="275" y="160" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TnM7k6m4lpgiyrAIQDHh-3" value="Public API" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
+        <mxCell id="TnM7k6m4lpgiyrAIQDHh-3" value="Public API" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="410" y="80" width="100" height="450" as="geometry" />
         </mxCell>
-        <mxCell id="TnM7k6m4lpgiyrAIQDHh-4" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="TnM7k6m4lpgiyrAIQDHh-3">
+        <mxCell id="TnM7k6m4lpgiyrAIQDHh-4" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="TnM7k6m4lpgiyrAIQDHh-3">
           <mxGeometry x="45" y="80" width="10" height="340" as="geometry" />
         </mxCell>
         <mxCell id="TnM7k6m4lpgiyrAIQDHh-21" value="Get Policy Details" style="verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;shadow=0;strokeWidth=1;fontSize=10;" edge="1" parent="TnM7k6m4lpgiyrAIQDHh-3">
@@ -81,8 +81,26 @@
         </mxCell>
         <mxCell id="TnM7k6m4lpgiyrAIQDHh-22" value="Return Policy Details" style="verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;shadow=0;strokeWidth=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="330" y="299.2599999999999" as="targetPoint" />
-            <mxPoint x="455" y="299.26" as="sourcePoint" />
+            <mxPoint x="330" y="334.2599999999999" as="targetPoint" />
+            <mxPoint x="455" y="334.26" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TnM7k6m4lpgiyrAIQDHh-24" value="Private API" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="547" y="80" width="100" height="450" as="geometry" />
+        </mxCell>
+        <mxCell id="TnM7k6m4lpgiyrAIQDHh-25" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="TnM7k6m4lpgiyrAIQDHh-24">
+          <mxGeometry x="45" y="80" width="10" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="TnM7k6m4lpgiyrAIQDHh-26" value="Check Blacklist" style="verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;shadow=0;strokeWidth=1;fontSize=10;" edge="1" parent="TnM7k6m4lpgiyrAIQDHh-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-81" y="211.00000000000006" as="sourcePoint" />
+            <mxPoint x="43" y="211.00000000000006" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TnM7k6m4lpgiyrAIQDHh-27" value="Return Policy Details" style="verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;shadow=0;strokeWidth=1;" edge="1" parent="TnM7k6m4lpgiyrAIQDHh-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-80" y="231.9999999999999" as="targetPoint" />
+            <mxPoint x="45" y="232" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
       </root>
