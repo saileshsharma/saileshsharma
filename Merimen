@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-10T05:17:14.707Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="re65kVVwLWLSihFhwnDw" version="20.0.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-07-10T05:23:18.257Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="nE63x4jfE3sZZvaAruzU" version="20.0.4" type="github" pages="2">
   <diagram name="Copy of Actual" id="46F3r4C2VhAkYRPD1UsH">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -469,7 +469,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Actual" id="-Rra1zflvF-Eefd0ZaFB">
-    <mxGraphModel dx="1673" dy="896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1185" dy="635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="zzSH0zRFWOKJO70a015U-0" />
         <mxCell id="zzSH0zRFWOKJO70a015U-1" parent="zzSH0zRFWOKJO70a015U-0" />
@@ -600,9 +600,13 @@
         <mxCell id="zzSH0zRFWOKJO70a015U-35" value="COG SFTP" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=10;fillColor=#fff2cc;strokeColor=#d6b656;verticalAlign=top;fontStyle=1" parent="zzSH0zRFWOKJO70a015U-1" vertex="1">
           <mxGeometry x="1098.02" y="280" width="151.98" height="560" as="geometry" />
         </mxCell>
-        <mxCell id="zzSH0zRFWOKJO70a015U-36" value="2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;fontColor=#000000;startArrow=classic;startFill=1;strokeColor=#009900;strokeWidth=2;" parent="zzSH0zRFWOKJO70a015U-1" target="zzSH0zRFWOKJO70a015U-72" edge="1">
+        <mxCell id="zzSH0zRFWOKJO70a015U-36" value="2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;fontColor=#000000;startArrow=classic;startFill=1;strokeColor=#009900;strokeWidth=2;" parent="zzSH0zRFWOKJO70a015U-1" target="zzSH0zRFWOKJO70a015U-72" edge="1" source="zzSH0zRFWOKJO70a015U-12">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="471.6500000000001" y="216.8571428571429" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="545" y="330" />
+              <mxPoint x="545" y="276" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="zzSH0zRFWOKJO70a015U-37" value="Claims Platform" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=#dae8fc;verticalAlign=top;strokeColor=#6c8ebf;dashed=1;" parent="zzSH0zRFWOKJO70a015U-1" vertex="1">
@@ -960,7 +964,7 @@
           <mxGeometry x="310" y="342.94" width="70" height="60" as="geometry" />
         </mxCell>
         <mxCell id="H-oFyn8Qmb41N5xPJKJm-6" value="PLAN B" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontSize=14;fontColor=#D5E8D4;strokeColor=none;strokeWidth=1;fillColor=#FF03A2;fontStyle=1;position2=0.43;" parent="zzSH0zRFWOKJO70a015U-1" vertex="1">
-          <mxGeometry x="502" y="168" width="70" height="60" as="geometry" />
+          <mxGeometry x="517" y="212" width="70" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
