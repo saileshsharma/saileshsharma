@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-13T06:46:02.491Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="FBLLh7WowWY5g3dhXYxU" version="20.1.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-07-13T06:46:44.109Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="V5Wdx0r5nXeHKm0tEpvz" version="20.1.1" type="github" pages="2">
   <diagram id="hw4PP8DsaB0dxp-VdWet" name="Page-1">
     <mxGraphModel dx="2272" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#F8FAFE" math="0" shadow="0">
       <root>
@@ -50,7 +50,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="e3cKiO7AZwbLYK3fZa07" name="Page-2">
-    <mxGraphModel dx="1185" dy="1735" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1673" dy="1996" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -207,7 +207,7 @@
           <mxGeometry x="250" y="351.5" width="318" height="338.5" as="geometry" />
         </mxCell>
         <mxCell id="qIOcOj_9Z0qZLX31ZRPh-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fontStyle=1;verticalAlign=top;dashed=1;align=right;spacingRight=3;" vertex="1" parent="1">
-          <mxGeometry x="640" y="310" width="340" height="460" as="geometry" />
+          <mxGeometry x="639" y="316.75" width="340" height="460" as="geometry" />
         </mxCell>
         <mxCell id="qIOcOj_9Z0qZLX31ZRPh-2" value="Indonesia Data Center" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fontStyle=1;verticalAlign=top;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;dashed=1;align=right;spacingRight=3;" vertex="1" parent="1">
           <mxGeometry x="638" y="795.25" width="340" height="114.75" as="geometry" />
