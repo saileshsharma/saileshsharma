@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2022-07-16T06:48:24.583Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="zUx3UeGm6FxqbahpmpC1" version="20.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-17T04:23:36.110Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="Inn9MSUdbfsGnRC1W50V" version="20.1.1" type="github">
   <diagram id="sZPvFUFMKZ4F_imw59td" name="Page-1">
-    <mxGraphModel dx="2035" dy="588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2035" dy="635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="BF5fTVdqFxl0USWXwOXD-2" value="BLOG STORAGE" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="BF5fTVdqFxl0USWXwOXD-2" value="BLOG STORAGE" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="120" y="120" width="160" height="230" as="geometry" />
         </mxCell>
         <mxCell id="BF5fTVdqFxl0USWXwOXD-19" value="Triggers" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;startArrow=none;startFill=0;strokeWidth=2;" edge="1" parent="1" source="BF5fTVdqFxl0USWXwOXD-3" target="BF5fTVdqFxl0USWXwOXD-18">
@@ -17,6 +17,14 @@
         <mxCell id="BF5fTVdqFxl0USWXwOXD-20" value="5" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BF5fTVdqFxl0USWXwOXD-19">
           <mxGeometry x="0.5147" relative="1" as="geometry">
             <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BF5fTVdqFxl0USWXwOXD-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;strokeWidth=2;" edge="1" parent="1" source="BF5fTVdqFxl0USWXwOXD-3" target="BF5fTVdqFxl0USWXwOXD-24">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="190" y="380" />
+              <mxPoint x="630" y="380" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="BF5fTVdqFxl0USWXwOXD-3" value="&lt;b&gt;C2&lt;/b&gt;&lt;br&gt;DECRYPTEDJSON" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
@@ -54,11 +62,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="BF5fTVdqFxl0USWXwOXD-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=none;startFill=0;strokeWidth=2;" edge="1" parent="1" source="BF5fTVdqFxl0USWXwOXD-8" target="BF5fTVdqFxl0USWXwOXD-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="BF5fTVdqFxl0USWXwOXD-8" value="Azure Function 1&lt;br&gt;(DecryptJson)" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="380" y="120" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BF5fTVdqFxl0USWXwOXD-10" value="Decrypt API" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="120" width="100" height="60" as="geometry" />
+          <mxGeometry x="580" y="120" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BF5fTVdqFxl0USWXwOXD-27" value="6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;strokeWidth=2;" edge="1" parent="1" source="BF5fTVdqFxl0USWXwOXD-18" target="BF5fTVdqFxl0USWXwOXD-24">
           <mxGeometry relative="1" as="geometry" />
@@ -67,19 +78,25 @@
           <mxGeometry x="380" y="280" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BF5fTVdqFxl0USWXwOXD-22" value="&lt;b&gt;Temp BLOB Container&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry y="400" width="80" height="60" as="geometry" />
+          <mxGeometry x="-90" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BF5fTVdqFxl0USWXwOXD-23" value="&lt;b&gt;Permanent BLOB Container&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="100" y="400" width="80" height="60" as="geometry" />
+          <mxGeometry x="10" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BF5fTVdqFxl0USWXwOXD-26" value="7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=none;startFill=0;strokeWidth=2;" edge="1" parent="1" source="BF5fTVdqFxl0USWXwOXD-24" target="BF5fTVdqFxl0USWXwOXD-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BF5fTVdqFxl0USWXwOXD-24" value="Azure ADF" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="600" y="280" width="100" height="60" as="geometry" />
+          <mxGeometry x="580" y="280" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BF5fTVdqFxl0USWXwOXD-25" value="Azure Cosmos DB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="600" y="400" width="100" height="60" as="geometry" />
+          <mxGeometry x="790" y="330" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BF5fTVdqFxl0USWXwOXD-29" value="Azure Function 3&lt;br&gt;Process Dead Letter" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="280" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BF5fTVdqFxl0USWXwOXD-30" value="Logs" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="380" width="130" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
