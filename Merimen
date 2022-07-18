@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-18T06:19:27.908Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="zHIiINFo12YG7S457UmY" version="20.1.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-07-18T07:08:31.107Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="hN0BvfIGu44FdYAUXG9P" version="20.1.1" type="github" pages="2">
   <diagram name="Copy of Actual" id="46F3r4C2VhAkYRPD1UsH">
-    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1673" dy="896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="U6kHVQOC7onTKvfEUOg7-0" />
         <mxCell id="U6kHVQOC7onTKvfEUOg7-1" parent="U6kHVQOC7onTKvfEUOg7-0" />
@@ -330,7 +330,7 @@
         <mxCell id="TEGtzYofzWm3d4QzDuh6-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="U6kHVQOC7onTKvfEUOg7-1" source="HdP0pRlRaaNV42IUBuDr-19" target="U6kHVQOC7onTKvfEUOg7-8">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="230" y="455" />
+              <mxPoint x="228" y="455" />
               <mxPoint x="228" y="455" />
             </Array>
           </mxGeometry>
@@ -401,7 +401,7 @@
         <mxCell id="TEGtzYofzWm3d4QzDuh6-5" value="&lt;span&gt;COG’s Claim Analytics&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="U6kHVQOC7onTKvfEUOg7-1">
           <mxGeometry x="650" y="678" width="230" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="TEGtzYofzWm3d4QzDuh6-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="U6kHVQOC7onTKvfEUOg7-1" source="U6kHVQOC7onTKvfEUOg7-8" target="TEGtzYofzWm3d4QzDuh6-2">
+        <mxCell id="TEGtzYofzWm3d4QzDuh6-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#ff0000;" edge="1" parent="U6kHVQOC7onTKvfEUOg7-1" source="U6kHVQOC7onTKvfEUOg7-8" target="TEGtzYofzWm3d4QzDuh6-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="255" y="480" />
@@ -409,6 +409,15 @@
               <mxPoint x="540" y="638" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="TEGtzYofzWm3d4QzDuh6-10" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#ff0000;strokeWidth=2;" edge="1" parent="U6kHVQOC7onTKvfEUOg7-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="169.5" y="790" as="sourcePoint" />
+            <mxPoint x="219.5" y="790" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TEGtzYofzWm3d4QzDuh6-11" value="To be determined later" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="U6kHVQOC7onTKvfEUOg7-1">
+          <mxGeometry x="209.37" y="775" width="145.63" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
